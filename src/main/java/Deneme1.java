@@ -3,5 +3,8 @@ public class Deneme1 {
 
         //Version1
         System.out.println("Version 1");
+
+        //Version 2
+        System.out.println("Version 2");
     }
 }
